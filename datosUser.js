@@ -1,5 +1,4 @@
-datosUser = [{
+export const datosUser = [{
     email: 'aaa@gmail.com',
-    pw: '12345'
 
 }]
